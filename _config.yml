@@ -5,6 +5,6 @@ baseurl: ''
 url: 'https://awulawula.github.io'
 twitter_username: awulawula
 github_username: awulawula
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-admin
