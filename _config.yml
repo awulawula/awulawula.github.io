@@ -1,9 +1,9 @@
 title: 老李的博客
+author: 老李
 email: admin@wulawula.cn
 description: 也许该写点什么了...
 baseurl: ''
 url: 'https://awulawula.github.io'
-twitter_username: awulawula
 github_username: awulawula
 theme: minima
 plugins:
